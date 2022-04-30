@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525617692142",
+    "project_id": "travelbuddy-78b3c",
+    "storage_bucket": "travelbuddy-78b3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525617692142:android:7292a32551465e0b39e2ff",
+        "android_client_info": {
+          "package_name": "com.example.hotelmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525617692142-ncsaqq8hi5v0b9st43kb4rt5cv0fb1va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8nyUzG7okxloivc9Ch3HF3dGJtIojQgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525617692142-ncsaqq8hi5v0b9st43kb4rt5cv0fb1va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

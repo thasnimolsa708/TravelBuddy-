@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TravelBuddy</string>
+    <string name="email">email</string>
+    <string name="address">Address</string>
+    <string name="password">Password</string>
+    <string name="check_internet">no internet</string>
+
+    <string name="no_account_yet">No account yet ?</string>
+    <string name="create_one">Create one</string>
+    <string name="login">Login</string>
+    <string name="have_account">"Already have a account"</string>
+    <string name="username">Username</string>
+    <string name="mob">Mobile</string>
+    <string name="error">Something error occured</string>
+    <string name="new_signup">New User? Signup here</string>
+    <string name="update_success">Profile Updated Successfully</string>
+    <string name="no_items">Sorry, No Hotels available</string>
+    <string name="label_update">Update</string>
+</resources>
