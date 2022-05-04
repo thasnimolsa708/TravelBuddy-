@@ -151,7 +151,7 @@ public class HomeActivity extends BaseActivity implements OnItemClickListener {
     }
 
     private void setCurrentLocation() {
-        binding.tvMainLocation.setText(currentLocation);
+        binding.tvMainLocation.setText(city);
         binding.tvSubLocation.setText(city);
     }
 
